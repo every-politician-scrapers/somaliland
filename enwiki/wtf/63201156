@@ -1,0 +1,220 @@
+{
+  "title": "Omar Ali Abdillahi",
+  "pageID": 63201156,
+  "categories": [
+    "People from Hargeisa",
+    "Peace, Unity, and Development Party politicians",
+    "Somaliland politicians",
+    "Health ministers of Somaliland",
+    "Living people",
+    "Government ministers of Somaliland",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Omar Ali Abdillahi (Cumar Cali Cabdillaahi) is a Somali politician, On 14 April 2019, He was appointed as the Minister of Health of Somaliland.",
+              "links": [
+                {
+                  "text": "Minister of Health of Somaliland",
+                  "type": "internal",
+                  "page": "Ministry of Health (Somaliland)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Omar Ali Abdillahi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Somali politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Omar Ali Abdillahi عمر علي عبد الله"
+          },
+          "office1": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Somaliland)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Hassan Ismail Yusuf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassan Ismail Yusuf"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Muse Bihi Abdi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muse Bihi Abdi"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 April 2019"
+          },
+          "party": {
+            "text": "Peace, Unity, and Development Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peace, Unity, and Development Party"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Hargeisa, Somaliland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hargeisa"
+              },
+              {
+                "type": "internal",
+                "page": "Somaliland"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.somaliland.com/news/somaliland/somaliland-president-appoints-new-cabinet-ministers/",
+          "title": "Somaliland President Sacks Two Ministers, Appoints Replacements",
+          "website": "Somaliland",
+          "access-date": "25 February 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.med.amouduniversity.org/k2-listing/item/736-hon-omar-a-ali-the-somaliland-minister-of-health-development-paid-a-visit-to-amoud-university",
+          "title": "Hon. Omar A. Ali, the Somaliland Minister of Health Development paid a Visit to Amoud University",
+          "website": "Amoud University",
+          "access-date": "25 February 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://somalilandstandard.com/first-health-expo-to-open-in-somaliland-health-minister",
+          "title": "First Health Expo to open in Somaliland - Health Minister",
+          "website": "Somaliland Standard",
+          "access-date": "1 April 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Somaliland",
+            "Biography"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Peace, Unity, and Development Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peace, Unity, and Development Party"
+              }
+            ]
+          },
+          {
+            "text": "Ministry of Health (Somaliland)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ministry of Health (Somaliland)"
+              }
+            ]
+          },
+          {
+            "text": "List of Somalis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Somalis"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Hassan Ismail Yusuf",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "ministers of somaliland"
+        },
+        {
+          "template": "somaliland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
