@@ -1,1 +1,12 @@
 item,rank,gender,isIdentity,hasref,refitem,exurl,wmurl,wmproj
+Q107310838,NormalRank,Q6581097,true,false,,,,
+Q108477781,NormalRank,Q6581097,true,true,false,false,false,true
+Q17155777,NormalRank,Q6581097,true,false,,,,
+Q355458,NormalRank,Q6581097,true,true,false,false,false,true
+Q3675842,NormalRank,Q6581097,true,false,,,,
+Q37993281,NormalRank,Q6581097,true,false,,,,
+Q380187,NormalRank,Q6581097,true,false,,,,
+Q470991,NormalRank,Q6581097,true,true,false,false,false,true
+Q85232623,NormalRank,Q6581097,true,false,,,,
+Q86259082,NormalRank,Q6581097,true,true,false,false,false,true
+Q89208921,NormalRank,Q6581097,true,false,,,,
