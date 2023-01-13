@@ -1,8 +1,8 @@
-position,positionLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished,predecessor,predecessorLabel,successor,successorLabel,deputy,deputyLabel,list,listLabel
-Q16885384,Vice President of Somaliland,Q34754,Somaliland,,,,,,,,,,,,
-Q25906534,President of Somaliland,Q34754,Somaliland,Q34754,Somaliland,,,,,,,,,Q3284235,list of presidents of Somaliland
-Q28941952,Member of the House of Representatives of Somaliland,,,Q34754,Somaliland,,,,,,,,,,
-Q34926715,Member of the House of Elders,,,Q34754,Somaliland,,,,,,,,,,
-Q85784492,Mayor of Hargeisa,Q34754,Somaliland,Q168652,Hargeisa,,,,,,,,,,
-Q104869321,Minister of Foreign Affairs,,,Q34754,Somaliland,,,,,,,,,,
-Q112667605,Health minister of Somaliland,Q34754,Somaliland,Q34754,Somaliland,,,,,,,,,,
+position,positionLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished,predecessor,predecessorLabel,successor,successorLabel,deputy,deputyLabel,list,listLabel,enwiki
+Q16885384,Vice President of Somaliland,Q34754,Somaliland,,,,,,,,,,,,,Vice President of Somaliland
+Q25906534,President of Somaliland,Q34754,Somaliland,Q34754,Somaliland,,,,,,,,,Q3284235,list of presidents of Somaliland,President of Somaliland
+Q28941952,Member of the House of Representatives of Somaliland,,,Q34754,Somaliland,,,,,,,,,,,
+Q34926715,Member of the House of Elders,,,Q34754,Somaliland,,,,,,,,,,,
+Q85784492,Mayor of Hargeisa,Q34754,Somaliland,Q168652,Hargeisa,,,,,,,,,,,Mayor of Hargeisa
+Q104869321,Minister of Foreign Affairs,,,Q34754,Somaliland,,,,,,,,,,,Minister of Foreign Affairs (Somaliland)
+Q112667605,Health minister of Somaliland,Q34754,Somaliland,Q34754,Somaliland,,,,,,,,,,,
