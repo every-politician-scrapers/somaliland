@@ -8,6 +8,7 @@ module.exports = (...ids) => {
                     ?successor ?successorLabel
                     ?deputy ?deputyLabel
                     ?list ?listLabel
+                    ?enwiki
     WITH {
         SELECT DISTINCT ?position
                         (MIN(?raw_country) AS ?country)
@@ -18,6 +19,7 @@ module.exports = (...ids) => {
                         (MIN(?raw_next) AS ?successor)
                         (MIN(?raw_inception) AS ?inception)
                         (MAX(?raw_abolished) AS ?abolished)
+                        ?enwiki
          WHERE {
               VALUES ?position { ${ids.map(value => `wd:${value}`).join(' ')} }
               OPTIONAL { ?position wdt:P17   ?raw_country }
@@ -29,8 +31,10 @@ module.exports = (...ids) => {
 
               OPTIONAL { ?position wdt:P2098 ?raw_deputy }
               OPTIONAL { ?position wdt:P2354 ?raw_list }
+              OPTIONAL { [] schema:about ?position; schema:isPartOf <https://en.wikipedia.org/>; schema:name ?enwiki }
+              OPTIONAL { ?enwiki schema:about ?position; schema:isPartOf <https://en.wikipedia.org/> }
          }
-         GROUP BY ?position
+         GROUP BY ?position ?enwiki
     } AS %inner
     WHERE {
         INCLUDE %inner .
