@@ -18,19 +18,22 @@
         {
           "sentences": [
             {
-              "text": "Omar Ali Abdillahi (Cumar Cali Cabdillaahi) is a Somali politician, On 14 April 2019, He was appointed as the Minister of Health of Somaliland.",
+              "text": "Omar Ali Abdillahi (Cumar Cali Cabdillaahi) is a Somali politician.",
+              "formatting": {
+                "bold": [
+                  "Omar Ali Abdillahi"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed as the Minister of Health of Somaliland on 14 April 2019.",
               "links": [
                 {
                   "text": "Minister of Health of Somaliland",
                   "type": "internal",
                   "page": "Ministry of Health (Somaliland)"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Omar Ali Abdillahi"
-                ]
-              }
+              ]
             }
           ]
         }
