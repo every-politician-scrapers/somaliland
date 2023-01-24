@@ -1,13 +1,12 @@
 item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
-Q107310838,Abdikarim Ahmed Mooge,NormalRank,Q822679,Garowe,true,true,true,false,false,true,true
-Q108477781,Essa Kayd,,,,,,false,,,,
-Q17155777,Muse Bihi Abdi,NormalRank,Q168652,Hargeisa,true,true,true,false,false,false,true
-Q355458,Dahir Rayale Kahin,NormalRank,Q791667,Awdal Region,true,false,true,false,false,false,true
-Q3675842,Abdirahman Saylici,NormalRank,Q157800,Zeila,true,true,true,false,false,true,true
-Q37993281,Saleban Essa Ahmed,NormalRank,Q1002700,Buuhoodle,true,true,true,false,false,false,true
-Q380187,Ahmed Mohamed Mohamoud,NormalRank,Q948448,Burao,true,true,true,false,false,false,true
-Q380187,Ahmed Mohamed Mohamoud,NormalRank,Q948448,Burao,true,true,true,false,true,false,false
-Q470991,Muhammad Haji Ibrahim Egal,NormalRank,Q7095260,Odweine,true,true,true,false,false,false,true
-Q85232623,Yasin Haji Mohamoud,NormalRank,Q1017223,Las Anod,true,true,false,,,,
-Q86259082,Omar Ali Abdillahi,,,,,,false,,,,
-Q89208921,Hassan Ismail Yusuf,NormalRank,Q948448,Burao,true,true,true,false,false,true,true
+Q107310838,Q107310838,,,,,,false,,,,
+Q108477781,Q108477781,,,,,,false,,,,
+Q17155777,Q17155777,,,,,,false,,,,
+Q355458,Q355458,,,,,,false,,,,
+Q3675842,Q3675842,,,,,,false,,,,
+Q37993281,Q37993281,,,,,,false,,,,
+Q380187,Q380187,,,,,,false,,,,
+Q470991,Q470991,,,,,,false,,,,
+Q85232623,Q85232623,,,,,,false,,,,
+Q86259082,Q86259082,,,,,,false,,,,
+Q89208921,Q89208921,,,,,,false,,,,
