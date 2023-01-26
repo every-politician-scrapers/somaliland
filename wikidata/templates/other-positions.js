@@ -19,5 +19,5 @@ module.exports = (...ids) => {
     INCLUDE %inner .
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en,fr,es,de,et,ru,ar". }
   }
-  ORDER BY DESC(?people) ?positionLabel ?ofLabel`
+  ORDER BY DESC(?people) ?positionLabel ?ofLabel ?jurisdictionLabel`
 }

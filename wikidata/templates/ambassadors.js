@@ -12,6 +12,6 @@ module.exports = function() {
 
       SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
     }
-    ORDER BY ?countryLabel
+    ORDER BY ?countryLabel ?itemLabel
   `
 }
