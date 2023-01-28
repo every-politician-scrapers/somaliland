@@ -1,3 +1,2 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-68685594,,,,,,,,,0
-68685594,Q104869321,Minister of Foreign Affairs,2020-03-03,,Q85232623,Yasin Haji Mohamoud,,,1
+who,position,began,ended
+68685594,Minister of Foreign Affairs,2020-03-03,
