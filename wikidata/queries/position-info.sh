@@ -11,4 +11,5 @@ sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' \
 
 cat $POSITIONS | xargs wd sparql wikidata/templates/aliases.js -f csv |
   sed -e 's%http://www.wikidata.org/entity/%%' |
-  qsv rename position,title > wikidata/results/position-aliases.csv
+  qsv rename position,title > $RESULTS
+qsv cat rows $RESULTS wikidata/*positions.csv | qsv dedup | qsv sort -s position,title > wikidata/results/position-aliases.csv
