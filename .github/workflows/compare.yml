@@ -2,7 +2,7 @@ name: Compare external data
 
 on:
   schedule:
-    - cron:  '14 3 * * *'
+    - cron:  '14 0 * * *'
   workflow_dispatch: {}
 
 jobs:

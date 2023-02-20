@@ -2,7 +2,7 @@ name: Mirror official site
 
 on:
   schedule:
-    - cron:  '14 1 * * *'
+    - cron:  '14 23 * * *'
   workflow_dispatch: {}
 
 jobs:

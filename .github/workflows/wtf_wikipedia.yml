@@ -2,7 +2,7 @@ name: wtf_wikipedia
 
 on:
   schedule:
-    - cron:  '14 0 * * *'
+    - cron:  '14 3 * * *'
   workflow_dispatch: {}
 
 jobs:
